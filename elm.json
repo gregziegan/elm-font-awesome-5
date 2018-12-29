@@ -1,9 +1,9 @@
 {
     "type": "package",
-    "name": "HolyMeekrob/elm-font-awesome-5",
+    "name": "frandibar/elm-font-awesome-5",
     "summary": "A strongly typed Elm package for working with Font Awesome 5",
     "license": "BSD-3-Clause",
-    "version": "2.2.0",
+    "version": "1.0.0",
     "exposed-modules": [
         "FontAwesome",
         "FontAwesome.Layers"
