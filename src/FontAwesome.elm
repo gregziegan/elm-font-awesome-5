@@ -1374,7 +1374,7 @@ module FontAwesome exposing
 
 # CDN Helpers
 
-@docs useSvg, useCss
+@docs useCss
 
 
 # Elements
