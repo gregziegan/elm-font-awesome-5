@@ -47,7 +47,7 @@ testUseCSS =
                     , Query.has
                         [ Selector.attribute
                             (Html.Attributes.href
-                                "https://use.fontawesome.com/releases/v5.0.3/css/all.css"
+                                "https://use.fontawesome.com/releases/v5.15.4/css/all.css"
                             )
                         ]
                     , Query.has
