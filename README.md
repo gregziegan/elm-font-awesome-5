@@ -1,10 +1,11 @@
 # About this fork
 
-This fork was published because I needed this library ported to 0.19, and couldn't wait until the original maintainer had time to do so.
+This fork was published because I needed this library updated to include more recent font-awesome icons and the original project was not worked on in over 3 years.
 
 # Documentation from original fork
 
 # Elm Font Awesome 5
+
 A strongly typed Elm package for using Font Awesome 5 icons
 in your views.
 
