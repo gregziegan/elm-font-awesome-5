@@ -167,8 +167,6 @@ iconFuzzer =
         , constant FA.adjust
         , constant FA.adn
         , constant FA.adversal
-        , constant FA.affiliateTheme
-        , constant FA.alarmClock
         , constant FA.algolia
         , constant FA.alignCenter
         , constant FA.alignJustify
@@ -181,7 +179,6 @@ iconFuzzer =
         , constant FA.amilia
         , constant FA.anchor
         , constant FA.android
-        , constant FA.angelList
         , constant FA.angleDoubleDown
         , constant FA.angleDoubleLeft
         , constant FA.angleDoubleRight
@@ -190,7 +187,6 @@ iconFuzzer =
         , constant FA.angleLeft
         , constant FA.angleRight
         , constant FA.angleUp
-        , constant FA.angryCreative
         , constant FA.angular
         , constant FA.appStore
         , constant FA.appStoreIos
@@ -202,48 +198,15 @@ iconFuzzer =
         , constant FA.arrowAltCircleLeft
         , constant FA.arrowAltCircleRight
         , constant FA.arrowAltCircleUp
-        , constant FA.arrowAltDown
-        , constant FA.arrowAltFromBottom
-        , constant FA.arrowAltFromLeft
-        , constant FA.arrowAltFromRight
-        , constant FA.arrowAltFromTop
-        , constant FA.arrowAltLeft
-        , constant FA.arrowAltRight
-        , constant FA.arrowAltSquareDown
-        , constant FA.arrowAltSquareLeft
-        , constant FA.arrowAltSquareRight
-        , constant FA.arrowAltSquareUp
-        , constant FA.arrowAltToBottom
-        , constant FA.arrowAltToLeft
-        , constant FA.arrowAltToRight
-        , constant FA.arrowAltToTop
-        , constant FA.arrowAltUp
         , constant FA.arrowCircleDown
         , constant FA.arrowCircleLeft
         , constant FA.arrowCircleRight
         , constant FA.arrowCircleUp
         , constant FA.arrowDown
-        , constant FA.arrowFromBottom
-        , constant FA.arrowFromLeft
-        , constant FA.arrowFromRight
-        , constant FA.arrowFromTop
         , constant FA.arrowLeft
         , constant FA.arrowRight
-        , constant FA.arrowSquareDown
-        , constant FA.arrowSquareLeft
-        , constant FA.arrowSquareRight
-        , constant FA.arrowSquareUp
-        , constant FA.arrowToBottom
-        , constant FA.arrowToLeft
-        , constant FA.arrowToRight
-        , constant FA.arrowToTop
         , constant FA.arrowUp
-        , constant FA.arrows
         , constant FA.arrowsAlt
-        , constant FA.arrowsAltHorizontal
-        , constant FA.arrowsAltVertical
-        , constant FA.arrowsHorizontal
-        , constant FA.arrowsVertical
         , constant FA.assistiveListeningSystems
         , constant FA.asterisk
         , constant FA.asymmetrik
@@ -255,24 +218,18 @@ iconFuzzer =
         , constant FA.aviato
         , constant FA.aws
         , constant FA.backward
-        , constant FA.badge
-        , constant FA.badgeCheck
         , constant FA.balanceScale
         , constant FA.ban
         , constant FA.bandcamp
         , constant FA.barcode
         , constant FA.bars
-        , constant FA.baseball
         , constant FA.baseballBall
         , constant FA.basketballBall
-        , constant FA.basketballHoop
         , constant FA.bath
-        , constant FA.batteryBolt
         , constant FA.batteryEmpty
         , constant FA.batteryFull
         , constant FA.batteryHalf
         , constant FA.batteryQuarter
-        , constant FA.batterySlash
         , constant FA.batteryThreeQuarters
         , constant FA.bed
         , constant FA.beer
@@ -281,7 +238,6 @@ iconFuzzer =
         , constant FA.bell
         , constant FA.bellSlash
         , constant FA.bicycle
-        , constant FA.bimObject
         , constant FA.binoculars
         , constant FA.birthdayCake
         , constant FA.bitbucket
@@ -300,36 +256,24 @@ iconFuzzer =
         , constant FA.book
         , constant FA.bookmark
         , constant FA.bowlingBall
-        , constant FA.bowlingPins
-        , constant FA.boxingGlove
         , constant FA.braille
         , constant FA.briefcase
-        , constant FA.browser
         , constant FA.btc
         , constant FA.bug
         , constant FA.building
         , constant FA.bullhorn
         , constant FA.bullseye
-        , constant FA.buromobelExperte
         , constant FA.bus
-        , constant FA.buySellAds
         , constant FA.calculator
         , constant FA.calendar
         , constant FA.calendarAlt
         , constant FA.calendarCheck
-        , constant FA.calendarEdit
-        , constant FA.calendarExclamation
         , constant FA.calendarMinus
         , constant FA.calendarPlus
         , constant FA.calendarTimes
         , constant FA.camera
-        , constant FA.cameraAlt
         , constant FA.cameraRetro
         , constant FA.car
-        , constant FA.caretCircleDown
-        , constant FA.caretCircleLeft
-        , constant FA.caretCircleRight
-        , constant FA.caretCircleUp
         , constant FA.caretDown
         , constant FA.caretLeft
         , constant FA.caretRight
@@ -347,7 +291,6 @@ iconFuzzer =
         , constant FA.ccDiscover
         , constant FA.ccJcb
         , constant FA.ccMastercard
-        , constant FA.ccPayPal
         , constant FA.ccStripe
         , constant FA.ccVisa
         , constant FA.centercode
@@ -361,35 +304,19 @@ iconFuzzer =
         , constant FA.checkSquare
         , constant FA.chess
         , constant FA.chessBishop
-        , constant FA.chessBishopAlt
         , constant FA.chessBoard
-        , constant FA.chessClock
-        , constant FA.chessClockAlt
         , constant FA.chessKing
-        , constant FA.chessKingAlt
         , constant FA.chessKnight
-        , constant FA.chessKnightAlt
         , constant FA.chessPawn
-        , constant FA.chessPawnAlt
         , constant FA.chessQueen
-        , constant FA.chessQueenAlt
         , constant FA.chessRook
-        , constant FA.chessRookAlt
         , constant FA.chevronCircleDown
         , constant FA.chevronCircleLeft
         , constant FA.chevronCircleRight
         , constant FA.chevronCircleUp
-        , constant FA.chevronDoubleDown
-        , constant FA.chevronDoubleLeft
-        , constant FA.chevronDoubleRight
-        , constant FA.chevronDoubleUp
         , constant FA.chevronDown
         , constant FA.chevronLeft
         , constant FA.chevronRight
-        , constant FA.chevronSquareDown
-        , constant FA.chevronSquareLeft
-        , constant FA.chevronSquareRight
-        , constant FA.chevronSquareUp
         , constant FA.chevronUp
         , constant FA.child
         , constant FA.chrome
@@ -400,20 +327,12 @@ iconFuzzer =
         , constant FA.clone
         , constant FA.closedCaptioning
         , constant FA.cloud
-        , constant FA.cloudDownload
         , constant FA.cloudDownloadAlt
-        , constant FA.cloudUpload
         , constant FA.cloudUploadAlt
-        , constant FA.cloudScale
         , constant FA.cloudsmith
         , constant FA.cloudversify
-        , constant FA.club
         , constant FA.code
         , constant FA.codeBranch
-        , constant FA.codeCommit
-        , constant FA.codeMerge
-        , constant FA.codePen
-        , constant FA.codiePie
         , constant FA.coffee
         , constant FA.cog
         , constant FA.cogs
@@ -424,24 +343,18 @@ iconFuzzer =
         , constant FA.compass
         , constant FA.compress
         , constant FA.compressAlt
-        , constant FA.compressWide
-        , constant FA.connectDevelop
         , constant FA.contao
         , constant FA.copy
         , constant FA.copyright
         , constant FA.cpanel
         , constant FA.creativeCommons
         , constant FA.creditCard
-        , constant FA.creditCardBlank
-        , constant FA.creditCardFront
-        , constant FA.cricket
         , constant FA.crop
         , constant FA.crosshairs
         , constant FA.css3
         , constant FA.css3Alt
         , constant FA.cube
         , constant FA.cubes
-        , constant FA.curling
         , constant FA.cut
         , constant FA.cuttlefish
 

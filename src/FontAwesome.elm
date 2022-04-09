@@ -816,7 +816,6 @@ module FontAwesome exposing
     , marsStroke
     , marsStrokeH
     , marsStrokeV
-    , mask
     , mastodon
     , maxcdn
     , mdb
@@ -2301,7 +2300,6 @@ module FontAwesome exposing
 @docs marsStroke
 @docs marsStrokeH
 @docs marsStrokeV
-@docs mask
 @docs mastodon
 @docs maxcdn
 @docs mdb
@@ -9164,13 +9162,6 @@ marsStrokeH =
 marsStrokeV : Icon
 marsStrokeV =
     Icon.Icon "mars-stroke-v"
-
-
-{-| Mask
--}
-mask : Icon
-mask =
-    Icon.Icon "mask"
 
 
 {-| Mastodon

@@ -9,7 +9,7 @@ def to_camel_case(id):
     if len(id) == 0:
         return id
 
-    if id == '500px':
+    elif id == '500px':
         return 'fiveHundredPx'
 
     s = id.replace('-', ' ')
@@ -55,6 +55,7 @@ def main(argv):
     comments, functions = None, None
     with open(icon_data) as f:
         icons = json.load(f)
+        del icons['mask']
         comments = doc_comments(icons.keys())
         functions = icon_functions(icons)
         exports = icon_exports(icons)
