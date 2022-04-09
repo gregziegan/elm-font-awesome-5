@@ -1,6 +1,6 @@
 {
     "type": "package",
-    "name": "frandibar/elm-font-awesome-5",
+    "name": "gziegan/elm-font-awesome-5",
     "summary": "A strongly typed Elm package for working with Font Awesome 5",
     "license": "BSD-3-Clause",
     "version": "1.0.0",
