@@ -2,8 +2,6 @@
 
 This fork was published because I needed this library updated to include more recent font-awesome icons and the original project was not worked on in over 3 years.
 
-I updated these docs to redirect to the original author's updated package if they'd like to continue maintaining the library. 
-
 # Documentation from original fork
 
 # Elm Font Awesome 5
